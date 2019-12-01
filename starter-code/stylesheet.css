@@ -1,0 +1,23 @@
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+#blood-orangebg {
+    background-color: #ED564B;
+}
+
+#darkgrey {
+    background-color: #3B3B3B;
+    color: white;
+}
+
+#almostblack {
+    background-color: #292929;
+    color: white;
+}
+
+#blood-orangec {
+    color: #ED564B;
+}
